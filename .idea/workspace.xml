@@ -4,17 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813ee9c8-4d8a-43f4-964d-cb311273c212" name="Changes" comment="Polymorphism | Method Overloading &amp; Overriding">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coders/classroom/wrapper_classes/CacheMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coders/classroom/wrapper_classes/IndentifyError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coders/classroom/wrapper_classes/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coders/classroom/wrapper_classes/Sum_of_Digits.java" afterDir="false" />
+    <list default="true" id="813ee9c8-4d8a-43f4-964d-cb311273c212" name="Changes" comment="Common Files">
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/MissingNumberReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/MoveZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/RemoveDuplicateElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/SecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/SecondSmallestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/SortArray1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/SortArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/assignments/arrays/SwappingThreeValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/abstract_methods/AbstractMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/abstract_methods/AbstractMethods1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/abstract_methods/AbstractionTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/Arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/DiagonalElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/DiagonalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/DuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/FindMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/FindingTargetElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/IsDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/MaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/MissingNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/Occurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/ScalarMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/SumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/TwoDimentionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/arrays/TwoMatrixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/final_package/FinalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/final_package/FinalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coders/classroom/strings/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/PrintDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/ConvertJagged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/ConvertNormalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/DynamicJaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/JaggedArrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/LeaderElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/arrays/RotateArrayByK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +73,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "anudeep-dev74"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anudeep-dev74&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/anudeep-dev74/Core_Java_Meghana_Mam.git",
-    "accountId": "f54f6b40-1e86-4705-a3a7-b7818959ad60"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anudeep-dev74/Core_Java_Meghana_Mam.git&quot;,
+    &quot;accountId&quot;: &quot;f54f6b40-1e86-4705-a3a7-b7818959ad60&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1,
   &quot;fromUser&quot;: false
@@ -52,50 +94,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CacheMemory.executor": "Run",
-    "Application.Even_Odd_Sum.executor": "Run",
-    "Application.IndentifyError.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MethodOverloading.executor": "Run",
-    "Application.MethodOverriding (1).executor": "Run",
-    "Application.MethodOverriding (2).executor": "Run",
-    "Application.MethodOverriding (3).executor": "Run",
-    "Application.MethodOverriding (4).executor": "Run",
-    "Application.MethodOverriding (5).executor": "Run",
-    "Application.MethodOverriding.executor": "Run",
-    "Application.MethodOverriding1 (1).executor": "Run",
-    "Application.MethodOverriding1.executor": "Run",
-    "Application.PhoneNumber.executor": "Run",
-    "Application.Sum_of_Digits.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstractMethods1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractionTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CacheMemory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertNormalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiagonalElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiagonalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuplicateElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicJaggedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalKeywordExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindingTargetElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndentifyError.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsDiagonal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JaggedArrays2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeaderElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodOverriding1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumberReverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Occurances.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScalarMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondSmallestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortArray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum_of_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwappingThreeValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TransposeMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDimentionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoMatrixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.coders.classroom.arrays.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coders.assignments.polymorphism.Main" />
+}</component>
+  <component name="RunManager" selected="Application.AbstractionTask">
+    <configuration name="AbstractionTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coders.classroom.abstract_methods.AbstractionTask" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coders.assignments.polymorphism.*" />
+          <option name="PATTERN" value="coders.classroom.abstract_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coders.assignments.polymorphism.Main" />
+    <configuration name="ConvertNormalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.ConvertNormalArray" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coders.assignments.polymorphism.*" />
+          <option name="PATTERN" value="practice.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coders.classroom.polymorphysm.MethodOverriding" />
+    <configuration name="DynamicJaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.DynamicJaggedArray" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coders.classroom.polymorphysm.*" />
+          <option name="PATTERN" value="practice.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coders.classroom.polymorphysm.MethodOverriding1" />
+    <configuration name="JaggedArrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.arrays.JaggedArrays2" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coders.classroom.polymorphysm.*" />
+          <option name="PATTERN" value="practice.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coders.classroom.polymorphysm.MethodOverriding1" />
+    <configuration name="String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coders.classroom.strings.String1" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coders.classroom.polymorphysm.*" />
+          <option name="PATTERN" value="coders.classroom.strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MethodOverriding1 (1)" />
-        <item itemvalue="Application.MethodOverriding1" />
-        <item itemvalue="Application.MethodOverriding" />
+        <item itemvalue="Application.AbstractionTask" />
+        <item itemvalue="Application.String1" />
+        <item itemvalue="Application.JaggedArrays2" />
+        <item itemvalue="Application.ConvertNormalArray" />
+        <item itemvalue="Application.DynamicJaggedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +259,30 @@
       <updated>1777793677806</updated>
       <workItem from="1777793679756" duration="13755000" />
       <workItem from="1777858649469" duration="2158000" />
-      <workItem from="1777875522095" duration="7506000" />
+      <workItem from="1777875522095" duration="8412000" />
+      <workItem from="1777898399776" duration="3825000" />
+      <workItem from="1777944633645" duration="2655000" />
+      <workItem from="1777962020240" duration="9405000" />
+      <workItem from="1778035074233" duration="997000" />
+      <workItem from="1778038694282" duration="428000" />
+      <workItem from="1778047419183" duration="5486000" />
+      <workItem from="1778073981057" duration="5660000" />
+      <workItem from="1778124529028" duration="2396000" />
+      <workItem from="1778148385260" duration="2000" />
+      <workItem from="1778158819253" duration="8000" />
+      <workItem from="1778222910021" duration="7594000" />
+      <workItem from="1778243751757" duration="6000" />
+      <workItem from="1778309926574" duration="427000" />
+      <workItem from="1778551517929" duration="1279000" />
+      <workItem from="1778567841248" duration="3433000" />
+      <workItem from="1778589396274" duration="41000" />
+      <workItem from="1778589752865" duration="9190000" />
+      <workItem from="1778636424622" duration="15989000" />
+      <workItem from="1778741936618" duration="17753000" />
+      <workItem from="1778897758113" duration="10529000" />
+      <workItem from="1779023532529" duration="894000" />
+      <workItem from="1779086064191" duration="7412000" />
+      <workItem from="1779108208310" duration="330000" />
     </task>
     <task id="LOCAL-00001" summary="Polymorphism | Method Overriding | Banking Application">
       <option name="closed" value="true" />
@@ -192,7 +300,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777895093925</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Wrapper Classes | Manual &amp; Auto - Boxing &amp; Unboxing">
+      <option name="closed" value="true" />
+      <created>1777895249945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777895249945</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Common Files">
+      <option name="closed" value="true" />
+      <created>1777895337521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777895337521</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +325,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Polymorphism | Method Overriding | Banking Application" />
     <MESSAGE value="Polymorphism | Method Overloading &amp; Overriding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism | Method Overloading &amp; Overriding" />
+    <MESSAGE value="Wrapper Classes | Manual &amp; Auto - Boxing &amp; Unboxing" />
+    <MESSAGE value="Common Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Common Files" />
   </component>
 </project>
